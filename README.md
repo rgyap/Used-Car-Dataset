@@ -2,7 +2,7 @@
 
 ## About
 This notebook was adapted from a project of mine for the "CSMODEL" course of De La Salle University Manila. This project was done by group, and I feel fortunate that I worked with wonderful people for this.
-In particular, this project was worked on by the folloing:
+In particular, this project was worked on by the following:
 - Abiño, Renz Wendell
 - Detablan, John Daniel
 - Reynoso, Markus Nikolo
